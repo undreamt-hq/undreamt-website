@@ -95,7 +95,9 @@ package.json
 
 # Status
 
-The website is currently in an early development phase and will continue evolving alongside the Undreamt ecosystem.
+The current landing page is made with the help of AI.
+
+The actual website is currently in an early development phase and will continue evolving alongside the Undreamt ecosystem.
 
 ---
 
